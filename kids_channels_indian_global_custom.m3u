@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Duck TV" group-title="Kids",Duck TV
+http://51.210.199.45/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Toon-A-Vision" group-title="Kids",Toon-A-Vision
+http://206.189.235.10:8080/Toon-A-Vision/index.m3u8
+#EXTINF:-1 tvg-name="Fix & Foxi" group-title="Kids",Fix & Foxi
+http://185.204.32.40:8081/fixandfoxi/index.m3u8
+#EXTINF:-1 tvg-name="Da Vinci Kids" group-title="Kids",Da Vinci Kids
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-da-vinci-samsungxw-dai/CDN/master.m3u8
+#EXTINF:-1 tvg-name="Cartoon Club" group-title="Kids",Cartoon Club
+http://185.204.32.40:8081/cartoonclub/index.m3u8
+#EXTINF:-1 tvg-name="ZooMoo" group-title="Kids",ZooMoo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-zoo-moo/CDN/master.m3u8
+#EXTINF:-1 tvg-name="eVidya Class 1" group-title="Kids",eVidya Class 1
+https://nicls.stream.cdn.in/epg/evidya1/index.m3u8
+#EXTINF:-1 tvg-name="eVidya Class 2" group-title="Kids",eVidya Class 2
+https://nicls.stream.cdn.in/epg/evidya2/index.m3u8
+#EXTINF:-1 tvg-name="eVidya Class 3" group-title="Kids",eVidya Class 3
+https://nicls.stream.cdn.in/epg/evidya3/index.m3u8
+#EXTINF:-1 tvg-name="eVidya Class 4" group-title="Kids",eVidya Class 4
+https://nicls.stream.cdn.in/epg/evidya4/index.m3u8
+#EXTINF:-1 tvg-name="DD National (Kids content time slots)" group-title="Kids",DD National (Kids content time slots)
+https://cdnsecakmi.kapang.net/live/ddnational/chunks.m3u8
